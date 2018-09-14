@@ -3,8 +3,8 @@ var metal;
 var lambo;
 
 function preload() {
-	metal = loadImage('Car/Texture.png');
-	lambo = loadModel('Car/Avent.obj');
+	metal = loadImage('../Car/Texture.png');
+	lambo = loadModel('../Car/Avent.obj');
 }
 
 function setup() {
